@@ -1,0 +1,11 @@
+{
+  "save_path": "clipboard_history.txt",
+  "check_interval": 1.0,
+  "auto_save": true,
+  "max_history": 100,
+  "server_port": 9999,
+  "enable_server": true,
+  "auto_start_monitoring": true,
+  "auto_start_server": true,
+  "auto_show_qr_code": false
+}
