@@ -1,9 +1,6 @@
 # 📋 剪贴板监控器 - 跨设备剪贴板同步工具
 
-[![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-orange.svg)](https://github.com/yourusername/clipboard-monitor)
-
+https://github.com/Sleepless-Tomato/Communicator_Tomato
 一个强大的跨设备剪贴板同步工具，支持电脑与手机之间的双向剪贴板内容传输。通过本地Web服务器和二维码连接，实现无缝的剪贴板同步体验。
 
 ## 🌟 功能特性
@@ -243,9 +240,9 @@ pip install -r requirements.txt
 ## 📞 联系方式
 
 如有问题或建议，请通过以下方式联系：
-- [创建Issue](https://github.com/yourusername/clipboard-monitor/issues)
-- 发送邮件至：your-email@example.com
+- 发送邮件至: ewrz55555@qq.com
 
 ---
+
 
 **注意**：使用前请确保已安装所有依赖项，并仔细阅读使用说明。
